@@ -12,6 +12,6 @@ ASP.NET Core 5.0 + RabbitMQ + MassTransit
 
 ## Architecture:
 
-- Service bus architecture
+- Enterprise Service Bus (ESB)
 
 
